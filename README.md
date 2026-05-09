@@ -27,3 +27,5 @@ No external dependencies required!
 | Medium | Longer sentences | Quotes and longer passages |
 | Hard | Technical paragraphs | DevOps and cloud computing topics |
 | Code | Programming snippets | Python code snippets |
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
